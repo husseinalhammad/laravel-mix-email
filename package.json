@@ -1,0 +1,17 @@
+{
+  "name": "mix-juice",
+  "version": "1.0.0-beta",
+  "description": "Laravel Mix plugin for managing common HTML email development tasks",
+  "main": "index.js",
+  "keywords": ["email", "laravel-mix", "css-inliner"],
+  "author": "Hussein Al Hammad <contact@hussein-alhammad.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "laravel-mix": "^6.0.49"
+  },
+  "dependencies": {
+    "email-comb": "^6.3.0",
+    "js-beautify": "^1.14.6",
+    "juice": "^8.1.0"
+  }
+}
