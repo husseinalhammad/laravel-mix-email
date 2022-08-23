@@ -41,4 +41,4 @@ mix.email({
 			// beautify-web/js-beautify config
 		}
 	})
-``
+```
