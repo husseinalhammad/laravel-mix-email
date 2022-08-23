@@ -21,24 +21,24 @@ TBD
 
 ```js
 mix.email({
-		source: 'dist',
+  source: 'dist',
 
-		inlineCss: {
-			enabled: true,
+  inlineCss: {
+    enabled: true,
 
-			// Automattic/juice config
-		},
+    // Automattic/juice config
+  },
 
-		optimize: {
-			enabled: true,
+  optimize: {
+    enabled: true,
 
-			// codsen/email-comb config
-		},
+    // codsen/email-comb config
+  },
 
-		beautify: {
-			enabled: false,
+  beautify: {
+    enabled: false,
 
-			// beautify-web/js-beautify config
-		}
-	})
+    // beautify-web/js-beautify config
+  }
+})
 ```
