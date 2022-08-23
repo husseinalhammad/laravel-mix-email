@@ -15,13 +15,15 @@ The plugin does the above using the following packages:
 
 ## Installation
 
-TBD
+```
+npm install -D laravel-mix-email
+```
 
 ## Usage
 
 ```js
 mix.email({
-  source: 'dist',
+  source: 'dist/**/*.html',
 
   inlineCss: {
     enabled: true,
