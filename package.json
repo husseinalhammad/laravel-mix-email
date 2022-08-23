@@ -1,5 +1,5 @@
 {
-  "name": "mix-juice",
+  "name": "laravel-mix-email",
   "version": "1.0.0-beta",
   "description": "Laravel Mix plugin for managing common HTML email development tasks",
   "main": "index.js",
